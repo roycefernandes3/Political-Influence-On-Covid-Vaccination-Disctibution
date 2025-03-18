@@ -27,7 +27,7 @@ Scatter plot illustrating relationship between national GDP and date of first va
 
 
 ## Correlation Analysis
-Statistical correlation analysis confirming GDP significantly influenced vaccine rollout speed.
+Statistical correlation analysis confirming GDP showed a weak but notable correlation with earlier vaccine rollout, indicating economic strength influenced vaccine timing but wasn't the only determining factor.
 ![Correlation Analysis](Correlation_Analysis_vaccination_vs_gdp.png)
 
 
