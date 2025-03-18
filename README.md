@@ -9,7 +9,7 @@ This report analyzes disparities in COVID-19 vaccine rollouts across countries, 
 
 - **Disproportionate Early Access:** In December 2020, wealthier nations or countries with stronger political ties received COVID-19 vaccines first, leading to an early advantage in vaccine rollout.
 - **Supply Shortages:** January 2021 experienced a significant reduction in global vaccine availability, primarily impacting lower-GDP nations, due to prior hoarding by economically powerful countries.
-- **Correlation with GDP:** Statistical analysis confirmed a strong correlation between a country’s GDP and its timing of vaccine administration, highlighting economic status as a significant factor in vaccine distribution inequity.
+- **Correlation with GDP:** GDP showed a weak but notable correlation with earlier vaccine rollout, indicating economic strength influenced vaccine timing but wasn't the only determining factor.
 
 ## Timeline of global vaccine doses administered
 Timeline of global vaccine doses administered, showing initial surges and shortages.
