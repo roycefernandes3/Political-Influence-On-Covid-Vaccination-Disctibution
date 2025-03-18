@@ -1,4 +1,4 @@
-# Political Influence On Covid Vaccination Disctibution
+# Political Influence On Covid Vaccination Distribution
 
 [Download Report](Political_Influence_On_Covid_Vaccination_Distribution.pdf)
 
