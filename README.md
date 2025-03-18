@@ -9,6 +9,8 @@ This report analyzes disparities in COVID-19 vaccine rollouts across countries, 
 - **Supply Shortages:** January 2021 experienced a significant reduction in global vaccine availability, primarily impacting lower-GDP nations, due to prior hoarding by economically powerful countries.
 - **Correlation with GDP:** Statistical analysis confirmed a strong correlation between a country’s GDP and its timing of vaccine administration, highlighting economic status as a significant factor in vaccine distribution inequity.
 
-## Screenshots
+## Countries vs Vaccinations Administered
 
 ![Vaccinations Administered](vaccinations_administered.png)
+
+![Vaccinations Administered](Rollout_Bar_Graph.png)
